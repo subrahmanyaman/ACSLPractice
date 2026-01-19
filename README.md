@@ -1,5 +1,5 @@
 # ACSLPractice
-This page contains practice tests for Elementary division on American Computer Science League (ACSL)
+The American Computer Science League (ACSL) Elementary Division practice tests are available on this page.
 
 ## Elementary Practice tests
 ### Computer Number Systems
